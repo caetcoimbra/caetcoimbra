@@ -1,0 +1,9 @@
+- 👋 Olá, meu nome é Caetano Coimbra, tenho 24 anos e venho me preparando há quase um ano para iniciar minha jornada como dev!
+- Apesar de ter iniciado meus estudos há menos de um ano, meu interesse por esse universo surgiu ainda na adolescência, quando me familiarizei com JS, HTML e CSS...
+- Naquela época eu já gostava bastante de artes visuais e comecei a querer me expressar através da criação de "templates" para páginas de amigos meus que utilizavam o Tumblr, inclusive foi aí que comecei a ganhar meu próprio dinheiro!
+- Minha vida acabou tomando outros rumos depois, inclusive cheguei a cursar Psicologia por cinco semestres, mas a pandemia trazida pelo COVID-19 tornou impossível a minha permanência na faculdade...
+- Buscando novas alternativas para recuperar minha independência financeira, decidi retomar meus estudos da adolescência quando encontrei a Trybe, uma escola online para devs!
+- 🌱 Desde que comecei me matriculei por lá, em junho de 2021, já aprendi muita coisa! Completei os blocos de Fundamentos do Desenvolvimento Web e o de Front-End...
+- Onde aprimorei os conhecimentos que eu já trazia desde os meus quinze anos de idade, além de conhecer muitas outras coisas, como por exemplo o React, um framework no qual tenho plena confiança das minhas habilidades!
+- 💞️ Tenho uma aspiração por colaborar em projetos que possam facilitar ou melhorar a vida de seus usuários, além de adorar expressar a minha criatividade através dos meus códigos!
+- 📫 Quer se conectar comigo? Me manda uma DM no Twitter (@itslemas) ou um e-mail (caetanocoimbra@gmail.com)!
