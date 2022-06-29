@@ -9,7 +9,7 @@
 <img align="right" src="https://i.imgur.com/7SAihHV.gif" height="250"/>
 
 
-👩‍💻 I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing applications that are scalable and functional.
+👩‍💻 I am a professional in career transition, looking for my place in the sun. I love solving problems through code and I want to be able to help improve people's lives by developing functional applications.
 
 🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
