@@ -13,7 +13,7 @@
 
 🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
-💬 Ask me about Javascript, React, Redux, Context APi, tests...
+💬 Ask me about Javascript, React, Redux, Context API, tests...
 
 ⚡ I like to play Valorant and watch fiction, horror and fantasy series
 
