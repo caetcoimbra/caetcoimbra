@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I'm Caetano Coimbra! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
 
-<!-- <h4 align="center"> 💻 Software Development | Web Development Student</h4> -->
+<!-- <h4 align="center"> 💻 Fullstack Developer </h4> -->
 
 ## About me: 
 
@@ -10,8 +10,6 @@
 
 
 👩‍💻 I am a professional in career transition, looking for my place in the sun. I love solving problems through code and I want to be able to help improve people's lives by developing functional applications.
-
-🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
 💬 Ask me about Javascript, React, Redux, Context API, tests...
 
