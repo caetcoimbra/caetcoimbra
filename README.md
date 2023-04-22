@@ -1,22 +1,16 @@
-<h3 align="left">Hi, I'm Caetano Coimbra! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
-
-<!-- <h4 align="center"> 💻 Fullstack Developer </h4> -->
-
+<p align="center">
+<img align="center" src="https://i.imgur.com/Sipuoj5.gif" width="535px">
+</p>
 ## About me: 
 
-<!-- <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/> -->
-<img align="right" src="https://i.imgur.com/7SAihHV.gif" height="250"/>
 
+👩‍💻 I am a web developer looking for my place in the sun. I love solving problems through code and I want to be able to help improve people's lives by developing functional applications. I'm currently focusing on freelancing jobs and been studying to develop mobile applications too!
 
-👩‍💻 I am a professional in career transition, looking for my place in the sun. I love solving problems through code and I want to be able to help improve people's lives by developing functional applications.
-
-💬 Ask me about Javascript, React, Redux, Context API, tests...
+💬 Ask me about Javascript, React, Redux, Context API, tests, PHP, Laravel, MySQL, APIs, Node...
 
 ⚡ I like to play Valorant and watch fiction, horror and fantasy series
 
 📫 How to reach me: **caetanocoimbra@gmail.com**
-  
 
 ## Languages and tools:
 
@@ -31,6 +25,9 @@
   <a href="https://icons8.com/icon/84710/bootstrap" target="_blank"><img title="Bootstrap" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
   <a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects"><img title="Jest" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/></a>
   <a href="https://imgbb.com/"><img title="React Testing Library" height="40" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library"></a>
+  <a href="https://icons8.com/icon/39856/php-logo"><img title="PHP" height="40" src="https://img.icons8.com/ios-filled/256/php-logo.png" /></a>
+  <a href="https://icons8.com/icon/lRjcvhvtR81o/laravel"><img title="Laravel" height="40" src="https://img.icons8.com/fluency/256/laravel.png" /></a>
+  <a href="https://icons8.com/icon/qGUfLiYi1bRN/my-sql"><img title="MySQL" height="40" src="https://img.icons8.com/color/256/my-sql.png" /></a>
 </p>
    
 ## Links:  
