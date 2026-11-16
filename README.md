@@ -1,26 +1,26 @@
 # Caetano Coimbra
 
-Web development · JavaScript and React · Customer Experience
+Web development · Previous front-end consulting experience · Customer Experience
 
-I have full-stack web development training from Trybe, completed in 2022, and previous freelance experience creating landing pages with HTML, CSS, JavaScript, and React. I am returning to development and rebuilding my technical practice through small, documented projects.
+I am building web development as my primary career. I completed Trybe's full-stack web development training in 2022 and previously worked on web interfaces and landing pages through Wexark and Penumbra Digital in 2023.
 
-My professional background also includes Customer Experience, where I progressed from customer service representative to trainer and supervisor. That experience involved training teams, monitoring operational indicators, providing feedback, and working with customer needs.
+My previous development work involved HTML, CSS, JavaScript, and React. I am now rebuilding my foundations and will present new projects as I develop, understand, and validate them.
 
-## Previous development work
+## Professional background
 
-These repositories document earlier implementations. They are part of my background and will be reviewed as I refresh my portfolio.
+- Wexark: previous front-end development work, January–April 2023.
+- Penumbra Digital: previous front-end development work, April–August 2023.
+- Customer Experience: progression from customer service representative to trainer and supervisor, with experience in training, operational indicators, feedback, and customer needs.
 
-- [Shopping Challenge](https://github.com/caetcoimbra/shopping-challenge): a front-end challenge using Next.js, TypeScript, Redux Toolkit, API integration, and a shopping cart. The repository includes Jest and React Testing Library tests.
-- [Pokédex Challenge](https://github.com/caetcoimbra/pokedex-challenge): a React application with Pokémon search, PokéAPI integration, and interface tests.
-- [Recipes App](https://github.com/caetcoimbra/recipes-app): a collaborative project built during Trybe. Team contributions are credited in the repository.
+## Current direction
 
-## Current focus
+- Consolidate programming fundamentals and project organization.
+- Build a new professional portfolio with projects I can explain and maintain.
+- Use AI assistance to support learning and development while reviewing and validating the implementation.
 
-- Refreshing JavaScript, React, state management, and project organization.
-- Reviewing existing projects before presenting them as current work.
-- Using AI assistance while learning to explain, change, and validate the implementation.
+My previous course exercises, recruiting challenges, and hobby repositories are not part of the new portfolio and are not used here as evidence of my current proficiency.
 
-I communicate in Portuguese and English. Outside development, I enjoy tabletop RPG, stories, games, and arts.
+I communicate in Portuguese and English. My interests include arts, stories, games, and tabletop RPG.
 
 ## Contact
 
