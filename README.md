@@ -1,15 +1,15 @@
 # Caetano Coimbra
 
-Web development · Previous front-end consulting experience · Customer Experience
+Web development · Previous front-end experience · Customer Experience
 
-I am building web development as my primary career. I completed Trybe's full-stack web development training in 2022 and previously worked on web interfaces and landing pages through Wexark and Penumbra Digital in 2023.
+I am building web development as my primary career. I completed Trybe's full-stack web development training in 2022 and previously volunteered in front-end development at Wexark and completed paid freelance assignments through Penumbra Digital in 2023.
 
 My previous development work involved HTML, CSS, JavaScript, and React. I am now rebuilding my foundations and will present new projects as I develop, understand, and validate them.
 
 ## Professional background
 
-- Wexark: previous front-end development work, January–April 2023.
-- Penumbra Digital: previous front-end development work, April–August 2023.
+- Wexark: volunteer front-end developer, January–April 2023.
+- Penumbra Digital: freelance front-end developer, paid per assignment, April–August 2023.
 - Customer Experience: progression from customer service representative to trainer and supervisor, with experience in training, operational indicators, feedback, and customer needs.
 
 ## Current direction
